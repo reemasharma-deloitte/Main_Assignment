@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;data.sql&apos; to &apos;Hashkart/src/test/java/resources&apos;&#x0D;&#x0A;- Original project: &apos;Hashkart&apos;&#x0D;&#x0A;- Destination element: &apos;Hashkart/src/test/java/resources&apos;&#x0D;&#x0A;- Original element: &apos;data.sql&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;resources" element1="src/test/java/data.sql" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1685677937958" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,15 @@
+management.endpoints.jmx.exposure.include=*
+
+spring.datasource.username=sa
+spring.datasource.password=Panther.123
+spring.datasource.url=jdbc:sqlserver://localhost;databaseName=ecommerce;encrypt=true;trustServerCertificate=true
+
+spring.jpa.hibernate.ddl-auto=update
+
+# Encryption configuration
+encryption.salt.rounds=10
+
+# JWT configuration
+jwt.algorithm.key=SuperSecureSecretKey
+jwt.issuer=eCommerce
+jwt.expiryInSeconds=604800
